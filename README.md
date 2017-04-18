@@ -7,3 +7,7 @@ To start drinking run the following commands.
 npm install
 npm start
 ```
+
+## Endpoints
+
+* `/api/beers`
