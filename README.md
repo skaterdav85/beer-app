@@ -4,6 +4,7 @@ This express app serves static json from localhost:3000/beers.
 To start drinking run the following commands.
 
 ```bash
+npm install -g nodemon
 npm install
 npm start
 ```
